@@ -12,15 +12,14 @@
 ![histograms_dateAdded](https://github.com/KangboLu/American-Fastfood-Exploratory-Data-Analysis/blob/master/Visualizations/histograms_dateAdded.png) 
 ![histograms_dateUpdated](https://github.com/KangboLu/American-Fastfood-Exploratory-Data-Analysis/blob/master/Visualizations/histograms_dateUpdated.png)
 
-
 #### Question 3: What are the common categories of top 50 mentioned restaurant?
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![categories_wordcloud](https://github.com/KangboLu/American-Fastfood-Exploratory-Data-Analysis/blob/master/Visualizations/categories_wordcloud.png)
 
 #### Question 4: What cities are crowded with fast food restaurants?
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![top20_mentioned_cities](https://github.com/KangboLu/American-Fastfood-Exploratory-Data-Analysis/blob/master/Visualizations/top20_mentioned_cities.png)
 
 #### Question 5: What states are crowded with fast food restaurants?
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![barchart_number_fastfood_by_state](https://github.com/KangboLu/American-Fastfood-Exploratory-Data-Analysis/blob/master/Visualizations/barchart_number_fastfood_by_state.png)
 
 #### Questions 6: What are the proportions of different fast food restaurants in top 3 mentioned cities?
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
