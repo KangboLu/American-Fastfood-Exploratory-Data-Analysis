@@ -27,10 +27,10 @@
 ![piechart_top10_in_Birmingham](https://github.com/KangboLu/American-Fastfood-Exploratory-Data-Analysis/blob/master/Visualizations/piechart_top10_in_Birmingham.png)
 
 #### Question 7: What's the geospatial perspective of the restaurants in differnt states?
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![choropleth_2019_us_fastfood_res_by_state](https://github.com/KangboLu/American-Fastfood-Exploratory-Data-Analysis/blob/master/Visualizations/choropleth_2019_us_fastfood_res_by_state.PNG)
 
 #### Question 8: How are the fast food restaurants scattered?
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![scattermap_2019_us_fastfood_res_by_GPS](https://github.com/KangboLu/American-Fastfood-Exploratory-Data-Analysis/blob/master/Visualizations/scattermap_2019_us_fastfood_res_by_GPS.PNG)
 
 #### Question 9. Ratio between fast food restaurants opened and population
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![choropleth_ratio_between_restaurants_and_population](https://github.com/KangboLu/American-Fastfood-Exploratory-Data-Analysis/blob/master/Visualizations/choropleth_ratio_between_restaurants_and_population.PNG)
