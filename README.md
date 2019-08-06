@@ -1,4 +1,4 @@
-# American-Fastfood-Exploratory-Data-Analysis
+# American Fastfood Exploratory Data Analysis
 :hamburger: Analyzing American Fast Food Restaurants
 
 ### More Details: go to the [Kaggle Kernel ](https://www.kaggle.com/agilesifaka/detailed-eda-with-visualizations)
