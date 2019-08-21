@@ -18,6 +18,8 @@ Looking at the bar plot again with updated, standardized restaurant names, we ca
 ![histograms_dateAdded](./Visualizations/histograms_dateAdded.png) 
 ![histograms_dateUpdated](./Visualizations/histograms_dateUpdated.png)
 
+We have fast food restaurants entries from 2014 to 2019 with most entries from 2019. The dataset has data updated from December 2018 to May 2019.
+
 #### 3: What are the common categories of top 50 mentioned restaurant?
 ![categories_wordcloud](./Visualizations/categories_wordcloud.png)
 
