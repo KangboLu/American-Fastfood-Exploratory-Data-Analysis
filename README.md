@@ -6,21 +6,19 @@
 ### Quick breakdown with some visualizations
 
 #### 1: What are the top 20 recorded fastfood restaurant by count?
-![top20_mentioned_restaurants before data cleaning](./Visualizations/top20_mentioned_restaurants.png)
-
+![top20_mentioned_restaurants before data cleaning](./Visualizations/top20_mentioned_restaurants.png)  
 The bar plot shows that "McDonald's" is the most popular fast food restaurants in the US. However, we can see there exist data entry error because "McDonalds" appearred again in the plot and so does Subway and SUBWAY. Hence, I used **Edit-distance algorithm** to find most similar words and they can possibily be included in the dataset due to error of data entry.
 
-![top20_mentioned_restaurants after data cleaning](./Visualizations/top20_mentioned_restaurants_after_cleaning.png)
-
+![top20_mentioned_restaurants after data cleaning](./Visualizations/top20_mentioned_restaurants_after_cleaning.png)  
 Looking at the bar plot again with updated, standardized restaurant names, we can observe that "Subway" is the most popular restaurant in the US followed by "Mc Donald's", "Taco Bell", and "Pizza Hut".
 
 #### 2: When are the data recorded and updated?
 ![histograms_dateAdded](./Visualizations/histograms_dateAdded.png) 
-![histograms_dateUpdated](./Visualizations/histograms_dateUpdated.png)
-
+![histograms_dateUpdated](./Visualizations/histograms_dateUpdated.png)  
 We have fast food restaurants entries from 2014 to 2019 with most entries from 2019. The dataset has data updated from December 2018 to May 2019.
 
 #### 3: What are the common categories of top 50 mentioned restaurant?
+After concatenating restaurant categories with underscore, I used wordcloud to help visualize the categories of top 50 mentioned restaurants. They things in common: American, Take out, and Hamburgers and Hot Dogs.  
 ![categories_wordcloud](./Visualizations/categories_wordcloud.png)
 
 #### 4: What cities are crowded with fast food restaurants?
