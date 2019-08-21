@@ -1,6 +1,6 @@
 # American Fastfood Exploratory Data Analysis
-:hamburger: Analyzing American Fast Food Restaurants
-
+:hamburger: Analyzing over 100000 American Fast Food Restaurants Records
+![scattermap_2019_us_fastfood_res_by_GPS](./Visualizations/scattermap_2019_us_fastfood_res_by_GPS.PNG)
 ### More Details: go to the [Kaggle Kernel ](https://www.kaggle.com/agilesifaka/detailed-eda-with-visualizations)
 
 ### Quick breakdown with some visualizations
