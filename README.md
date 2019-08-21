@@ -6,7 +6,11 @@
 ### Quick breakdown with some visualizations
 
 #### 1: What are the top 20 recorded fastfood restaurant by count?
-![top20_mentioned_restaurants](./Visualizations/top20_mentioned_restaurants.png)
+![top20_mentioned_restaurants before data cleaning](./Visualizations/top20_mentioned_restaurants.png)
+
+The bar plot shows that "McDonald's" is the most popular fast food restaurants in the US. However, we can see there exist data entry error because "McDonalds" appearred again in the plot and so does Subway and SUBWAY. Hence, I used Edit-distance algorithm to find most similar words and they can possibily be included in the dataset due to error of data entry.
+
+![top20_mentioned_restaurants after data cleaning](./Visualizations/top20_mentioned_restaurants_after_cleaning.png)
 
 #### 2: When are the data recorded and updated?
 ![histograms_dateAdded](./Visualizations/histograms_dateAdded.png) 
