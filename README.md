@@ -22,6 +22,8 @@ After concatenating restaurant categories with underscore, I used wordcloud to h
 ![categories_wordcloud](./Visualizations/categories_wordcloud.png)
 
 #### 4: What cities are crowded with fast food restaurants?
+Columbus is the state capital and the most populous city in the U.S. State of Ohio. With a population of 892,533 as of 2018 estimates, it is the 14th-most populous city in the United States and one of the fastest growing large cities in the nation.
+From the below graph, we can see Columbus is populated with fast food restaurants.
 ![top20_mentioned_cities](https://github.com/KangboLu/American-Fastfood-Exploratory-Data-Analysis/blob/master/Visualizations/top20_mentioned_cities.png)
 
 #### 5: What states are crowded with fast food restaurants?
