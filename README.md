@@ -53,6 +53,5 @@ The scatter plot on map shows that the east has clearly more red dots or fast fo
 
 #### Question 9. Ratio between fast food restaurants opened and population
 
-Divising the number of fast food restaurants by 2019 population in each state, we can see there exist strong positive correlation  
-between the population in each state and the number of fast food restaurants opened in each state.  
+Divising the number of fast food restaurants by 2019 population in each state, we can see there exist strong positive correlation between the population in each state and the number of fast food restaurants opened in each state.  
 ![choropleth_ratio_between_restaurants_and_population](./Visualizations/choropleth_ratio_between_restaurants_and_population.PNG)
