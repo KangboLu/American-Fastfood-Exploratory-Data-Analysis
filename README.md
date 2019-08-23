@@ -41,10 +41,18 @@ In Birminham, Subway opened highest number of fast food restaurants.
 ![piechart_top10_in_Birmingham](./Visualizations/piechart_top10_in_Birmingham.png)
 
 #### Question 7: What's the geospatial perspective of the restaurants in differnt states?
+
+Counting the number of fast food restaurants opened in each state, we can observe that the east of the  
+US has more fast food restaurants opened; California is the most fast food restaurants populated state.  
 ![choropleth_2019_us_fastfood_res_by_state](./Visualizations/choropleth_2019_us_fastfood_res_by_state.PNG)
 
 #### Question 8: How are the fast food restaurants scattered?
+
+The scatter plot on map shows that the east has clearly more red dots or fast food restaurants comparing to the west.  
 ![scattermap_2019_us_fastfood_res_by_GPS](./Visualizations/scattermap_2019_us_fastfood_res_by_GPS.PNG)
 
 #### Question 9. Ratio between fast food restaurants opened and population
+
+Divising the number of fast food restaurants by 2019 population in each state, we can see there exist strong positive correlation  
+between the population in each state and the number of fast food restaurants opened in each state.  
 ![choropleth_ratio_between_restaurants_and_population](./Visualizations/choropleth_ratio_between_restaurants_and_population.PNG)
