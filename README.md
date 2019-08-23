@@ -27,6 +27,7 @@ From the below graph, we can see Columbus is populated with fast food restaurant
 ![top20_mentioned_cities](https://github.com/KangboLu/American-Fastfood-Exploratory-Data-Analysis/blob/master/Visualizations/top20_mentioned_cities.png)
 
 #### 5: What states are crowded with fast food restaurants?
+Ohio state has the highest number of fast food restaurants record in the dataset.
 ![barchart_number_fastfood_by_state](./Visualizations/barchart_number_fastfood_by_state.png)
 
 #### 6: What are the proportions of different fast food restaurants in top 3 mentioned cities?
