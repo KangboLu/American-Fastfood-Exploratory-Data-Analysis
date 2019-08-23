@@ -31,8 +31,13 @@ Ohio state has the highest number of fast food restaurants record in the dataset
 ![barchart_number_fastfood_by_state](./Visualizations/barchart_number_fastfood_by_state.png)
 
 #### 6: What are the proportions of different fast food restaurants in top 3 mentioned cities?
+In Columbus, Subway opened highest number of fast food restaurants.  
 ![piechart_top10_in_Columbus](./Visualizations/piechart_top10_in_Columbus.png)
+
+In Indianapolis, Pizza Hut opened highest number of fast food restaurants.  
 ![piechart_top10_in_Indianapolis](./Visualizations/piechart_top10_in_Indianapolis.png)
+
+In Birminham, Subway opened highest number of fast food restaurants.
 ![piechart_top10_in_Birmingham](./Visualizations/piechart_top10_in_Birmingham.png)
 
 #### Question 7: What's the geospatial perspective of the restaurants in differnt states?
